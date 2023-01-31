@@ -1,0 +1,19 @@
+{
+  "name": "projectuno",
+  "version": "1.0.0",
+  "description": "my movie project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeratBeser/trial_Project.git"
+  },
+  "author": "beratbeser",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeratBeser/trial_Project/issues"
+  },
+  "homepage": "https://github.com/BeratBeser/trial_Project#readme"
+}
